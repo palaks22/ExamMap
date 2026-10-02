@@ -1,6 +1,6 @@
-# RoomMapper 🪑📋
+# ExamMap 🪑📋
 
-**RoomMapper** is a smart, responsive web application that simplifies the process of **exam hall seat allotment**. Just upload your student and room data in Excel format — RoomMapper will handle the logic and generate a downloadable result!
+**ExamMap** is a smart, responsive web application that simplifies the process of **exam hall seat allotment**. Just upload your student and room data in Excel format — RoomMapper will handle the logic and generate a downloadable result!
 
 > ⚡ Built entirely using HTML, CSS, and JavaScript — no server or database setup required!
 
@@ -34,9 +34,9 @@
 ---
 
 ## 🚀 Live Preview
-- To see Live Preview Download The PinNumbers File [**Click Here To Download**](https://tinyurl.com/ExcelFile-RoomMapper)
+- To see Live Preview Download The PinNumbers File [**Click Here To Download**](https://tinyurl.com/ExcelFile-ExamMap)
 
-🔗 [**Try RoomMapper Live**](https://roommapper.netlify.app/)
+🔗 [**Try ExamMap Live**](https://exammap.netlify.app/)
 
 ---
 
