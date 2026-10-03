@@ -8,7 +8,7 @@
 
 ## 🌟 Features
 
-- 📁 Upload Excel file with **Student Pin Numbers**
+- 📁 Upload Excel file with **Student Roll Numbers**
 - 🪑 Automatically allocates students to rooms based on given capacity
 - 📥 Generates clean, downloadable **Excel output**
 - 💻 Fully **client-side** — your data stays private!
@@ -47,5 +47,5 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Devarajb049/RoomMapper---Smart-Exam-Hall-Seat-Allotment-System.git
-   cd RoomMapper---Smart-Exam-Hall-Seat-Allotment-System
+   git clone https://github.com/Devarajb049/ExamMap---Smart-Exam-Hall-Seat-Allotment-System.git
+   cd ExamMap---Smart-Exam-Hall-Seat-Allotment-System
